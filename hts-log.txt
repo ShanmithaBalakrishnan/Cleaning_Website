@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Sep 2024 13:38:09 at https://html.hixstudio.net/listbnb-prv/listbnb/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://html.hixstudio.net/listbnb-prv/listbnb/index.html
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://html.hixstudio.net/listbnb-prv/listbnb/index.html -O1 "C:\My Web Sites\list" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://html.hixstudio.net/listbnb-prv/listbnb/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/fonts/fa-duotone-900.woff2 (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/font-awesome-pro.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/fonts/fa-duotone-900.ttf (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/font-awesome-pro.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/fonts/fa-thin-100.woff2 (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/font-awesome-pro.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/fonts/fa-thin-100.ttf (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/font-awesome-pro.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/fonts/fa-v4compatibility.woff2 (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/font-awesome-pro.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/fonts/fa-v4compatibility.ttf (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/font-awesome-pro.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/img/icon/cross-out.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/images/ui-icons_444444_256x240.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/images/ui-icons_555555_256x240.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/images/ui-icons_ffffff_256x240.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/images/ui-icons_777620_256x240.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/images/ui-icons_cc0000_256x240.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/images/ui-icons_777777_256x240.png (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/css/main.css)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/assets/img/avata/avata-1-1.png (from https://html.hixstudio.net/listbnb-prv/listbnb/index-2.html)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/+77788855500 (from https://html.hixstudio.net/listbnb-prv/listbnb/profile.html)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/e (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/js/swiper-bundle.js)
+13:40:00	Error: 	"Not Found" (404) at link https://html.hixstudio.net/listbnb-prv/listbnb/a.params.url (from https://html.hixstudio.net/listbnb-prv/listbnb/assets/js/swiper-bundle.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 323 links scanned, 305 files written (17255942 bytes overall) [12498133 bytes received at 112595 bytes/sec], 6782752 bytes transferred using HTTP compression in 68 files, ratio 27%, 40.3 requests per connection
+(17 errors, 0 warnings, 0 messages)
